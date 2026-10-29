@@ -16,3 +16,7 @@ or TV. Each client gets its own virtual display at its own native resolution and
 💬 [Discord](https://discord.gg/wzEGg9y45z) ·
 [r/Punktfunk](https://www.reddit.com/r/Punktfunk/) ·
 🔒 security@punktfunk.com
+
+## Use of AI
+
+This project uses AI for writing code.
