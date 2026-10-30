@@ -11,12 +11,9 @@ or TV. Each client gets its own virtual display at its own native resolution and
 - **[client-web](https://github.com/punktfunk/client-web)**: browser client
 - **[client-webos](https://github.com/punktfunk/client-webos)**: LG webOS TV client
 - **[client-tizen](https://github.com/punktfunk/client-tizen)**: Samsung Tizen TV client
+- **[client-ps5](https://github.com/punktfunk/client-ps5)**: PlayStation 5 homebrew client
 
 📖 [docs.punktfunk.unom.io](https://docs.punktfunk.unom.io) ·
 💬 [Discord](https://discord.gg/wzEGg9y45z) ·
 [r/Punktfunk](https://www.reddit.com/r/Punktfunk/) ·
 🔒 security@punktfunk.com
-
-## Use of AI
-
-This project uses AI for writing code.
